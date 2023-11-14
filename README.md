@@ -1,6 +1,6 @@
 # Documentation Repository
 
-Welcome to the official documentation repository for [Your Project Name]. This repository contains the documentation for [describe your project's purpose]. We appreciate your interest in contributing and helping us improve this documentation.
+Welcome to my documentation repository. This repository contains the my documentations and blogs. I appreciate your interest in contributing and helping us improve this documentation.
 
 ## Table of Contents
 - [License](#license)
